@@ -1,0 +1,17 @@
+{
+    "name": "ProceduralLevelGenerator.Unity.Editor",
+    "references": [
+        "ProceduralLevelGenerator.Unity",
+        "ProceduralLevelGenerator.Unity.Examples"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
